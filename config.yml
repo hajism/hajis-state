@@ -162,13 +162,14 @@ params:
       category: North Coast
     - name: Backup Gateway
       category: North Coast
-    - name: Website
+    - name: Website Company Profile
       description: The web frontend for the application.
       category: Uncategorized
-      link: https://example.com/
-    - name: API
+      link: https://meditap.id
+    - name: API IAM
       description: The guts of the application.
       category: Uncategorized
+      link: https://api-live.meditap.id/v1/iam/health
     - name: Media Proxy
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
       category: Uncategorized
